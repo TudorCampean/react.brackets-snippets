@@ -6,5 +6,6 @@ It requires [Brackets snippets](https://github.com/jrowny/brackets-snippets) ext
 ### To use:
 
 Copy the contents of this repo in
+
     /your Brackets extension location /extensions/user/jrowny.brackets.snippets/data/
 
