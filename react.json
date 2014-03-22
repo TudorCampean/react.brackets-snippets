@@ -1,0 +1,16 @@
+[
+    {
+        "name": "React simple component for browserify",
+        "trigger": "rscc",
+        "usage": "rscc name",
+        "description": "Create a simple react component for browserify",
+        "template": "rscc.snippet"
+    },
+    {
+        "name": "React full API component for browserify",
+        "trigger": "rfcc",
+        "usage": "rfcc",
+        "description": "Create a full API react component for browserify",
+        "template": "rfcc.snippet"
+    }
+]
